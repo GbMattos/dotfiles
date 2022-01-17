@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gabrielmattos2003@hotmail.com
+	name = Gabriel Mattos
